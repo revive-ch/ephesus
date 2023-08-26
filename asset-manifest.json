@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ephesus/static/css/main.e45f705d.css",
+    "main.js": "/ephesus/static/js/main.9ec86a13.js",
+    "static/js/787.8afd0638.chunk.js": "/ephesus/static/js/787.8afd0638.chunk.js",
+    "index.html": "/ephesus/index.html",
+    "main.e45f705d.css.map": "/ephesus/static/css/main.e45f705d.css.map",
+    "main.9ec86a13.js.map": "/ephesus/static/js/main.9ec86a13.js.map",
+    "787.8afd0638.chunk.js.map": "/ephesus/static/js/787.8afd0638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45f705d.css",
+    "static/js/main.9ec86a13.js"
+  ]
+}
